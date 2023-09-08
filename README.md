@@ -3,24 +3,24 @@
 Mathematics is a basic foundation of Machine learning so here I'm pushing all the topics, contents and notes which are necessary for  Data enthusiast to know.
 
 **Getting started with maths for ds**
---> Calculus for ML
---> Vector Algebra
---> Materix Algebra
---> Gredient Descent
+--> Calculus for mL
+--> Vector algebra
+--> Materix algebra
+--> Gredient descent
 
 **Descriptive Statistics**
---> Probbaility Theory
---> Summarizing Data
+--> Probbaility theory
+--> Summarizing data
 --> Random variables
 --> DIscrete distributions
---> COntinuous distributions
+--> Continuous distributions
 --> Joint distributions
 --> Monte charlo simulation
 
 
 **Inferential statisics**
 --> Sampling and Statistical inference
---> Confidence Intervals
+--> Confidence intervals
 --> Introduction to Hypothesis testing
 --> A/B testing
 
